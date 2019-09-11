@@ -11,4 +11,4 @@ client.on("message", (message) => {
   }
 });
 
-client.login("NjIwNzU3OTMwODk5Mjc1Nzk5.XXiK7Q.tmITOHMVH7FyGbusfJx8EfDKRcE");
+client.login("SUPERSECRETTOKENGOESHERE");
